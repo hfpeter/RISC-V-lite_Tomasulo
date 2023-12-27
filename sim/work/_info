@@ -1,0 +1,609 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/isa_lab/lab3/lab3_2023/materia/obi/obi/sim
+Ccfg_tb
+etb_dlx
+aTEST
+Z1 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx4 work 7 mytypes 0 22 X3O8Fe`2WaQkbB=Bf0V2M1
+Z4 DEx4 work 3 dlx 0 22 F;RFAcMc>?RZ3G<kPbiPi1
+DAx4 work 6 tb_dlx 4 test 22 Tn8KOFKGkH44B7[UeS0la3
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z7 DEx4 work 6 tb_dlx 0 22 0`Ta?IIRzh`WES5dFomje3
+Z8 w1690781377
+R0
+Z9 8D:/isa_lab/lab3/lab3_2023/materia/obi/obi/tb/TB_DLX.vhd
+Z10 FD:/isa_lab/lab3/lab3_2023/materia/obi/obi/tb/TB_DLX.vhd
+l0
+L108
+VdcBo1kjmad9C>N[1oK_c82
+!s100 knFbaM6oPVb5U8Go_7SWi3
+Z11 OV;C;10.5b;63
+32
+Z12 !s110 1703668332
+!i10b 0
+Z13 !s108 1703668332.000000
+Z14 !s90 -reportprogress|300|-work|work|D:/isa_lab/lab3/lab3_2023/materia/obi/obi/tb/TB_DLX.vhd|
+Z15 !s107 D:/isa_lab/lab3/lab3_2023/materia/obi/obi/tb/TB_DLX.vhd|
+!i113 1
+Z16 o-work work
+Z17 tExplicit 1 CvgOpt 0
+Eclk_gen
+Z18 w1692711455
+R1
+R2
+R5
+R6
+R0
+Z19 8D:/isa_lab/lab3/lab3_2023/materia/obi/obi/tb/clk_gen.vhd
+Z20 FD:/isa_lab/lab3/lab3_2023/materia/obi/obi/tb/clk_gen.vhd
+l0
+L6
+VNaWj[]:I_Ld49>Z<bAZ:B0
+!s100 Z9AC]5=[E;C9<dQbVg6e20
+R11
+32
+Z21 !s110 1703666392
+!i10b 1
+Z22 !s108 1703666392.000000
+Z23 !s90 -reportprogress|300|-work|work|D:/isa_lab/lab3/lab3_2023/materia/obi/obi/tb/clk_gen.vhd|
+Z24 !s107 D:/isa_lab/lab3/lab3_2023/materia/obi/obi/tb/clk_gen.vhd|
+!i113 1
+R16
+R17
+Abeh
+R1
+R2
+R5
+R6
+DEx4 work 7 clk_gen 0 22 NaWj[]:I_Ld49>Z<bAZ:B0
+l18
+L14
+VMBA69<_Wg7Ge@WMo;SE=:0
+!s100 DYl6?:LjA?n^fbQfCMLMb1
+R11
+32
+R21
+!i10b 1
+R22
+R23
+R24
+!i113 1
+R16
+R17
+Pconstants
+w1666356168
+R0
+8D:/isa_lab/lab3/lab3_2023/materia/obi/obi/src/constants.vhd
+FD:/isa_lab/lab3/lab3_2023/materia/obi/obi/src/constants.vhd
+l0
+L2
+VC=55fhZR1UPVZS]kHWl8K1
+!s100 6gYXnaM?cAh:OL=_CzO8R1
+R11
+32
+!s110 1703666292
+!i10b 1
+!s108 1703666292.000000
+!s90 -reportprogress|300|-work|work|D:/isa_lab/lab3/lab3_2023/materia/obi/obi/src/constants.vhd|
+!s107 D:/isa_lab/lab3/lab3_2023/materia/obi/obi/src/constants.vhd|
+!i113 1
+R16
+R17
+Edata_dumper
+Z25 w1693243360
+Z26 DPx4 ieee 16 std_logic_textio 0 22 V5TSK`;aJKC<l]CEg1>mz1
+R1
+R2
+R5
+R6
+R0
+Z27 8D:/isa_lab/lab3/lab3_2023/materia/obi/obi/tb/data_dumper.vhd
+Z28 FD:/isa_lab/lab3/lab3_2023/materia/obi/obi/tb/data_dumper.vhd
+l0
+L10
+VcUm5<l9lBTC5GnPlSd;og1
+!s100 W6nRV:XY:E3nQI5MgJKdA3
+R11
+32
+Z29 !s110 1703666393
+!i10b 1
+Z30 !s108 1703666393.000000
+Z31 !s90 -reportprogress|300|-work|work|D:/isa_lab/lab3/lab3_2023/materia/obi/obi/tb/data_dumper.vhd|
+Z32 !s107 D:/isa_lab/lab3/lab3_2023/materia/obi/obi/tb/data_dumper.vhd|
+!i113 1
+R16
+R17
+Abeh
+R26
+R1
+R2
+R5
+R6
+DEx4 work 11 data_dumper 0 22 cUm5<l9lBTC5GnPlSd;og1
+l22
+L20
+V=flah8j?9SPcDLm_=hJKM1
+!s100 SG0cz8e0kmP8J0>l6@<L02
+R11
+32
+R29
+!i10b 1
+R30
+R31
+R32
+!i113 1
+R16
+R17
+Edatapath
+Z33 w1703668745
+Z34 DPx4 work 9 constants 0 22 C=55fhZR1UPVZS]kHWl8K1
+R2
+R1
+R5
+R6
+R0
+Z35 8D:/isa_lab/lab3/lab3_2023/materia/obi/obi/src/a.b-datapath.vhd
+Z36 FD:/isa_lab/lab3/lab3_2023/materia/obi/obi/src/a.b-datapath.vhd
+l0
+L7
+V@a]9=PG49Uo1Hh1h3_O:23
+!s100 ^`nX=W55eV]fDC4^R2Mg_2
+R11
+32
+Z37 !s110 1703669005
+!i10b 1
+Z38 !s108 1703669005.000000
+Z39 !s90 -reportprogress|300|-work|work|D:/isa_lab/lab3/lab3_2023/materia/obi/obi/src/a.b-datapath.vhd|
+Z40 !s107 D:/isa_lab/lab3/lab3_2023/materia/obi/obi/src/a.b-datapath.vhd|
+!i113 1
+R16
+R17
+Abehavioral
+R34
+R2
+R1
+R5
+R6
+DEx4 work 8 datapath 0 22 @a]9=PG49Uo1Hh1h3_O:23
+l54
+L37
+VdiS9bze=3i5k[TA7G2jTH1
+!s100 ^MYVYK8QE7;V6d^e_3foV1
+R11
+32
+R37
+!i10b 1
+R38
+R39
+R40
+!i113 1
+R16
+R17
+Edecoder
+Z41 w1703668779
+Z42 DPx4 ieee 9 math_real 0 22 Sk6CSihbPL<f[^Shm]=KX0
+R2
+R1
+R5
+R6
+R0
+Z43 8D:/isa_lab/lab3/lab3_2023/materia/obi/obi/src/decoder.vhd
+Z44 FD:/isa_lab/lab3/lab3_2023/materia/obi/obi/src/decoder.vhd
+l0
+L12
+VAzbV<fjTe7e9Y=g`R59JI2
+!s100 ZA2a>aU1JMb2f=iQblQWY0
+R11
+32
+Z45 !s110 1703669007
+!i10b 1
+Z46 !s108 1703669007.000000
+Z47 !s90 -reportprogress|300|-work|work|D:/isa_lab/lab3/lab3_2023/materia/obi/obi/src/decoder.vhd|
+Z48 !s107 D:/isa_lab/lab3/lab3_2023/materia/obi/obi/src/decoder.vhd|
+!i113 1
+R16
+R17
+Abehavioral
+R42
+R2
+R1
+R5
+R6
+DEx4 work 7 decoder 0 22 AzbV<fjTe7e9Y=g`R59JI2
+l122
+L49
+Vd_D6CAh3_`UGYL<;m33`m1
+!s100 3JZgXL[7R8Y]n2Gz`[EDE2
+R11
+32
+R45
+!i10b 1
+R46
+R47
+R48
+!i113 1
+R16
+R17
+Edlx
+Z49 w1703650894
+R3
+R2
+R1
+R5
+R6
+R0
+Z50 8D:/isa_lab/lab3/lab3_2023/materia/obi/obi/src/dlx.vhd
+Z51 FD:/isa_lab/lab3/lab3_2023/materia/obi/obi/src/dlx.vhd
+l0
+L7
+VF;RFAcMc>?RZ3G<kPbiPi1
+!s100 n<>mg;77N91egi=ima[]K1
+R11
+32
+Z52 !s110 1703669010
+!i10b 1
+Z53 !s108 1703669010.000000
+Z54 !s90 -reportprogress|30|-work|work|D:/isa_lab/lab3/lab3_2023/materia/obi/obi/src/dlx.vhd|
+Z55 !s107 D:/isa_lab/lab3/lab3_2023/materia/obi/obi/src/dlx.vhd|
+!i113 1
+R16
+R17
+Adlx_rtl
+R3
+R2
+R1
+R5
+R6
+R4
+l200
+L41
+Z56 VOW4FjBAN<I9OW?h`f5he^1
+Z57 !s100 Ro7DzKGh<C2[jdZQf>LHL3
+R11
+32
+R52
+!i10b 1
+R53
+R54
+R55
+!i113 1
+R16
+R17
+Edlx_cu
+Z58 w1703668985
+R3
+R2
+R1
+R5
+R6
+R0
+Z59 8D:/isa_lab/lab3/lab3_2023/materia/obi/obi/src/dlx_cu.vhd
+Z60 FD:/isa_lab/lab3/lab3_2023/materia/obi/obi/src/dlx_cu.vhd
+l0
+L9
+Vefo_X0gA_C=EU<9l;7PRF2
+!s100 ]ZRA<8h?50Z<:zY2AmnUz2
+R11
+32
+Z61 !s110 1703669009
+!i10b 1
+Z62 !s108 1703669009.000000
+Z63 !s90 -reportprogress|300|-work|work|D:/isa_lab/lab3/lab3_2023/materia/obi/obi/src/dlx_cu.vhd|
+Z64 !s107 D:/isa_lab/lab3/lab3_2023/materia/obi/obi/src/dlx_cu.vhd|
+!i113 1
+R16
+R17
+Adlx_cu_hw
+R3
+R2
+R1
+R5
+R6
+DEx4 work 6 dlx_cu 0 22 efo_X0gA_C=EU<9l;7PRF2
+l260
+L67
+VVkl^X@8KHZc=[SmcKQRbI0
+!s100 R0<=D>R:YRV=j?9?aZ40K1
+R11
+32
+R61
+!i10b 1
+R62
+R63
+R64
+!i113 1
+R16
+R17
+Efetch
+Z65 w1703649026
+R26
+R1
+R2
+R5
+R6
+R0
+Z66 8D:/isa_lab/lab3/lab3_2023/materia/obi/obi/src/fetch.vhd
+Z67 FD:/isa_lab/lab3/lab3_2023/materia/obi/obi/src/fetch.vhd
+l0
+L10
+VhbK_CeOH1MGV3Uo5blWn93
+!s100 MEFHcZkFl0]Gi?^3PFOag0
+R11
+32
+Z68 !s110 1703666381
+!i10b 1
+Z69 !s108 1703666381.000000
+Z70 !s90 -reportprogress|300|-work|work|D:/isa_lab/lab3/lab3_2023/materia/obi/obi/src/fetch.vhd|
+Z71 !s107 D:/isa_lab/lab3/lab3_2023/materia/obi/obi/src/fetch.vhd|
+!i113 1
+R16
+R17
+Abeh
+R26
+R1
+R2
+R5
+R6
+DEx4 work 5 fetch 0 22 hbK_CeOH1MGV3Uo5blWn93
+l56
+L23
+VEjDTXS<YQY?el3iIdn]SJ1
+!s100 La>Rc2b]_De?o_8lC82?k1
+R11
+32
+R68
+!i10b 1
+R69
+R70
+R71
+!i113 1
+R16
+R17
+Emem_wrap_fake
+Z72 w1703605295
+R1
+R2
+R5
+R6
+R0
+Z73 8D:/isa_lab/lab3/lab3_2023/materia/obi/obi/src/mem_wrap_fake.vhd
+Z74 FD:/isa_lab/lab3/lab3_2023/materia/obi/obi/src/mem_wrap_fake.vhd
+l0
+L6
+VUU]8^b9ZIP4[o79K?e:?41
+!s100 ge`?nXe;0jXfCn;`zbf0;1
+R11
+32
+Z75 !s110 1703666383
+!i10b 1
+Z76 !s108 1703666383.000000
+Z77 !s90 -reportprogress|300|-work|work|D:/isa_lab/lab3/lab3_2023/materia/obi/obi/src/mem_wrap_fake.vhd|
+Z78 !s107 D:/isa_lab/lab3/lab3_2023/materia/obi/obi/src/mem_wrap_fake.vhd|
+!i113 1
+R16
+R17
+Abeh
+R1
+R2
+R5
+R6
+DEx4 work 13 mem_wrap_fake 0 22 UU]8^b9ZIP4[o79K?e:?41
+l76
+L25
+V=cO0ge6ObWAeV[0?^OcMW0
+!s100 [cBCaS8]6Q2loZLhYgS@f1
+R11
+32
+R75
+!i10b 1
+R76
+R77
+R78
+!i113 1
+R16
+R17
+Pmytypes
+R5
+R6
+w1666356170
+R0
+8D:/isa_lab/lab3/lab3_2023/materia/obi/obi/src/myTypes.vhd
+FD:/isa_lab/lab3/lab3_2023/materia/obi/obi/src/myTypes.vhd
+l0
+L4
+VX3O8Fe`2WaQkbB=Bf0V2M1
+!s100 G2JY^:1;=8VhfBA74>Jb_0
+R11
+32
+!s110 1703666287
+!i10b 1
+!s108 1703666287.000000
+!s90 -reportprogress|300|-work|work|D:/isa_lab/lab3/lab3_2023/materia/obi/obi/src/myTypes.vhd|
+!s107 D:/isa_lab/lab3/lab3_2023/materia/obi/obi/src/myTypes.vhd|
+!i113 1
+R16
+R17
+Ereq_gen
+Z79 w1703648625
+R26
+R1
+R2
+R5
+R6
+R0
+Z80 8D:/isa_lab/lab3/lab3_2023/materia/obi/obi/tb/req_gen.vhd
+Z81 FD:/isa_lab/lab3/lab3_2023/materia/obi/obi/tb/req_gen.vhd
+l0
+L10
+VjKelUPk]0MUcAi:H[7;nM1
+!s100 HknY`_hFe2oge8fdTD@4>2
+R11
+32
+Z82 !s110 1703666394
+!i10b 1
+Z83 !s108 1703666394.000000
+Z84 !s90 -reportprogress|300|-work|work|D:/isa_lab/lab3/lab3_2023/materia/obi/obi/tb/req_gen.vhd|
+Z85 !s107 D:/isa_lab/lab3/lab3_2023/materia/obi/obi/tb/req_gen.vhd|
+!i113 1
+R16
+R17
+Abeh
+R26
+R1
+R2
+R5
+R6
+DEx4 work 7 req_gen 0 22 jKelUPk]0MUcAi:H[7;nM1
+l64
+L25
+V]b@kW[kNLl5V8<E_1Q_@A3
+!s100 F<Z1POlFE_mMOY2hOE:gB2
+R11
+32
+R82
+!i10b 1
+R83
+R84
+R85
+!i113 1
+R16
+R17
+Ereq_gen_fast
+Z86 w1691077418
+R26
+R1
+R2
+R5
+R6
+R0
+Z87 8D:/isa_lab/lab3/lab3_2023/materia/obi/obi/tb/req_gen_fast.vhd
+Z88 FD:/isa_lab/lab3/lab3_2023/materia/obi/obi/tb/req_gen_fast.vhd
+l0
+L10
+VE`Rfc98;36YihS^:`fTbL3
+!s100 Ic_Idm_Q_hg4^4IG_W:<50
+R11
+32
+Z89 !s110 1703666395
+!i10b 1
+Z90 !s108 1703666395.000000
+Z91 !s90 -reportprogress|300|-work|work|D:/isa_lab/lab3/lab3_2023/materia/obi/obi/tb/req_gen_fast.vhd|
+Z92 !s107 D:/isa_lab/lab3/lab3_2023/materia/obi/obi/tb/req_gen_fast.vhd|
+!i113 1
+R16
+R17
+Abeh
+R26
+R1
+R2
+R5
+R6
+DEx4 work 12 req_gen_fast 0 22 E`Rfc98;36YihS^:`fTbL3
+l64
+L25
+VdTLzFF=5APk7Nf`DC=75Y0
+!s100 H_B:K[WG:e?636k6mk51o3
+R11
+32
+R89
+!i10b 1
+R90
+R91
+R92
+!i113 1
+R16
+R17
+vsram_32_1024_freepdk45
+DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+!s110 1703666388
+!i10b 1
+!s100 LH1V:5MKzF07;7hD7kfGb1
+I2:j?hbcJBddXa`aHCURi73
+Z93 VDg1SIo80bB@j0V0VzS_@n1
+!s105 sram_32_1024_freepdk45_sv_unit
+S1
+R0
+w1703585846
+8D:/isa_lab/lab3/lab3_2023/materia/obi/obi/src/sram_32_1024_freepdk45.sv
+FD:/isa_lab/lab3/lab3_2023/materia/obi/obi/src/sram_32_1024_freepdk45.sv
+L0 5
+Z94 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1703666388.000000
+!s107 D:/isa_lab/lab3/lab3_2023/materia/obi/obi/src/sram_32_1024_freepdk45.sv|
+!s90 -reportprogress|300|-work|work|D:/isa_lab/lab3/lab3_2023/materia/obi/obi/src/sram_32_1024_freepdk45.sv|
+!i113 1
+R16
+Z95 tCvgOpt 0
+Etb_dlx
+R8
+R5
+R6
+R0
+R9
+R10
+l0
+L6
+V0`Ta?IIRzh`WES5dFomje3
+!s100 gzjjc^PHhe5<_b@dD2[RY2
+R11
+32
+R12
+!i10b 1
+R13
+R14
+R15
+!i113 1
+R16
+R17
+Atest
+R5
+R6
+R7
+l69
+L9
+VTn8KOFKGkH44B7[UeS0la3
+!s100 oDfj:S4[;O83Q5ZBlKfVN3
+R11
+32
+R12
+!i10b 1
+R13
+R14
+R15
+!i113 1
+R16
+R17
+vtb_mem_wrap_fake
+!s110 1703666396
+!i10b 1
+!s100 lkMch7`_G16k^ZfOQD3N=0
+I8SoTS@KNZ[XZS?@H7fd7c3
+R93
+R0
+w1703649224
+8D:/isa_lab/lab3/lab3_2023/materia/obi/obi/tb/tb_mem_wrap_fake.v
+FD:/isa_lab/lab3/lab3_2023/materia/obi/obi/tb/tb_mem_wrap_fake.v
+L0 3
+R94
+r1
+!s85 0
+31
+!s108 1703666396.000000
+!s107 D:/isa_lab/lab3/lab3_2023/materia/obi/obi/tb/tb_mem_wrap_fake.v|
+!s90 -reportprogress|300|-work|work|D:/isa_lab/lab3/lab3_2023/materia/obi/obi/tb/tb_mem_wrap_fake.v|
+!i113 1
+R16
+R95
